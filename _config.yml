@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "hpc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "HPC Carpentry - Conestoga College"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: ppomorsk@sharcnet.ca 
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -26,6 +26,7 @@ repository: <USERNAME>/<PROJECT>
 amy_site: "https://amy.software-carpentry.org/workshops"
 lc_site: "https://librarycarpentry.github.io/"
 dc_site: "http://datacarpentry.org"
+hpc_site: "https://hpc-carpentry.github.io"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
 swc_pages: "https://swcarpentry.github.io"
