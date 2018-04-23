@@ -1,20 +1,20 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "hpc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "HPC Carpentry - Queen's University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Douglas Library Electronic Classroom, 93 University Ave., Kingston, ON"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "HPC Carpentry - Conestoga College"        # brief name of host site without address (e.g., "Euphoric State University")
+address: DMB-1E05, 299 Doon Valley Dr, Kitchener      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "44.2275652,-76.4972414"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "May 3-4, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9am - 4pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-05-03      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-05-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Jeff Stafford"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Charlie Hindmarch", "Mark Mathieu"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["jeff.stafford@queensu.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+latlng: "43.389485,-80.404178"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+humandate: "May 26-27, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "10am - 5pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2018-05-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2018-05-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Pawel Pomorski", "Tyson Whitehead", "Isaac Ye"]  # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["ddvorski@conestogac.on.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: 45147168396          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
